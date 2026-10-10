@@ -148,7 +148,21 @@ Most "free LLM API" lists give you a name and a link. This one gives you everyth
   | **SDKs** | Python (`cerebras-cloud-sdk`), REST |
   | **Speed Tier** | 🟢 Fast — wafer-scale chip, comparable to Groq |
 
+  ### [FreeAIapikey](https://freeaiapikey.com/dashboard) 🇮🇳
+
+  > OpenAI-compatible gateway offering frontier models (OpenAI + Anthropic families) at reduced prices, with a permanent free tier.
+
+  | Detail | Info |
+  |---|---|
+  | **Free Models** | GPT-5.5, GPT-5.6 Sol, GPT-6 Sol, GPT-6 Astra, Claude Opus 4.7/4.8/5/5.5, Claude Sonnet 5 |
+  | **Rate Limits** | 100K free tokens/day (free plan, verified accounts) · paid plans from $10/mo |
+  | **OpenAI Compat** | ✅ Yes — `https://api.freeaiapikey.com/v1` |
+  | **Credit Card** | ❌ Not required — $2 free credit on signup |
+  | **SDKs** | Any OpenAI SDK, REST |
+
   ---
+
+---
 
   ### [OpenRouter](https://openrouter.ai/keys) 🇺🇸
 

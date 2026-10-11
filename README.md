@@ -30,7 +30,7 @@ Most "free LLM API" lists give you a name and a link. This one gives you everyth
 
 - [Provider APIs](#provider-apis) — companies that train or fine-tune their own models
 - [Inference Providers](#inference-providers) — third-party platforms hosting open-weight models
-  - includes Groq, Cerebras, OpenRouter, GitHub Models, NVIDIA NIM, Hugging Face, Cloudflare, Kluster AI, LLM7.io, Pollinations AI, UnoRouter, Api.Airforce, Requesty
+  - includes Groq, Cerebras, OpenRouter, GitHub Models, NVIDIA NIM, Hugging Face, Cloudflare, Kluster AI, LLM7.io, Pollinations AI, UnoRouter, Api.Airforce, Requesty, FreeAIapikey
   - [Speed Tier Legend](#speed-tier-legend)
   - [Quick Comparison Table](#quick-comparison-table)
   - [Code Snippets](#code-snippets)

@@ -350,7 +350,7 @@ Most "free LLM API" lists give you a name and a link. This one gives you everyth
 
   ## Quick Comparison — Free LLM APIs at a Glance
 
-  All 16 **free LLM API providers** side by side. Sorted by category (provider-first, then inference). Use this to pick the right free AI API for your use case before diving into the full entry above.
+  All 17 **free LLM API providers** side by side. Sorted by category (provider-first, then inference). Use this to pick the right free AI API for your use case before diving into the full entry above.
 
   | Provider | Best Free Model | RPM | RPD | OpenAI Compat | Speed |
   |---|---|---|---|---|---|
@@ -361,6 +361,7 @@ Most "free LLM API" lists give you a name and a link. This one gives you everyth
   | Groq | Llama 3.3 70B | 30 | 14,400 | ✅ | 🟢 |
   | AnyAPI | Llama 3.3 70B | 20 | 200 | ✅ | 🟡 |
   | Cerebras | Qwen3 235B | 30 | 14,400 | ✅ | 🟢 |
+  | FreeAIapikey | GPT-6 Astra / Claude Opus 5.5 | 20 | 100K tokens/day | ✅ | 🟡 |
   | OpenRouter | Qwen3 Coder 480B | 20 | 200 | ✅ | 🟡 |
   | Api.Airforce | GPT-OSS-120B | — | — | ✅ | 🟢 |
   | GitHub Models | GPT-4o | 10–15 | 50–150 | ✅ | 🟡 |
